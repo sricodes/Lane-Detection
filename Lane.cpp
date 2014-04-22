@@ -19,7 +19,8 @@ void setup(){
   cvCreateTrackbar("smoothing","control_1",&n_smo,30, NULL); 
   cvCreateTrackbar("dilation", "control_1", &n_dil,300, NULL); 
   cvCreateTrackbar("errosion", "control_1", &n_ero,100, NULL); 
-  cvNamedWindow("canny"); cvCreateTrackbar("min","canny",&min_c,300, NULL);
+  cvNamedWindow("canny"); 
+  cvCreateTrackbar("min","canny",&min_c,300, NULL);
   cvCreateTrackbar("max", "canny", &max_c,300, NULL); 
   cvNamedWindow("PHough line"); 
   cvCreateTrackbar("Var_1","PHough line",&a,300, NULL); 
