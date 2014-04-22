@@ -15,6 +15,8 @@ https://cloud.githubusercontent.com/assets/6832288/2765261/22a18d32-ca22-11e3-99
 
 2.Cropped and blurred
 
+Median and Bilateral blurred can be used
+
 https://cloud.githubusercontent.com/assets/6832288/2765270/25c94ec8-ca22-11e3-86cb-b740f1da32f4.png
 
 
