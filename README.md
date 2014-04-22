@@ -1,9 +1,11 @@
 Lane-Detection
 ==============
 Undergraduate Project 
+Developer:
+
+copyright © 2014 Sriram , B.Tech Mechanical Engineering  Indian Institute Of Technology, Guwahati.
 
 Lane detection for robotic path planing using Opencv on Linux 
-
 
 
 These are the links of images
